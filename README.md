@@ -1,9 +1,11 @@
 # C++23 Task Engine
 
-![C++23](https://img.shields.io/badge/C%2B%2B-23-blue.svg)
-![CMake](https://img.shields.io/badge/CMake-3.26%2B-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)
+[![C++23](https://img.shields.io/badge/C%2B%2B-23-blue.svg?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/cpp/23)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://github.com/alekzandren/cpp-task-engine)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet.svg?style=flat-square)](https://github.com/alekzandren/cpp-task-engine)
+[![CMake](https://img.shields.io/badge/CMake-3.26%2B-064F8C.svg?style=flat-square&logo=cmake&logoColor=white)](https://cmake.org/)
+[![Category: Concurrency](https://img.shields.io/badge/Category-Concurrency%20%7C%20RAII-darkgreen.svg?style=flat-square)](https://github.com/alekzandren/cpp-task-engine)
 
 **Task Engine** is a lightweight, high-performance, and cross-platform asynchronous Worker Pool implementation written in modern **C++23**. 
 
